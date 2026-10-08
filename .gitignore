@@ -1,0 +1,6 @@
+out/
+build/
+results/
+business_analysis.exe
+archive/ecommerce_dataset_+1m.csv
+archive/ecommerce_dataset_+1m.xlsx
